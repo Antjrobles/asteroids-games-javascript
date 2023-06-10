@@ -37,4 +37,3 @@ const player = new Player({
 
 player.draw();
 
-console.log(ctx);
